@@ -1,3 +1,6 @@
+/* * {
+    background-color: #121212;
+} */
 .card {
     width: 230px;
     border-radius: 20px;
@@ -6,6 +9,7 @@
     overflow: hidden;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 20px 0px;
     transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    margin: 200px auto;
   }
   
   .card:hover {
